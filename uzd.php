@@ -58,4 +58,20 @@ foreach($students as $i)
 //5.uzd
 echo "\n 5.uzd \n";
 
+$assocAnimal =
+[
+    "Lauva" => [250, "ziditajs"],
+    "Laupijums" => ["gazele", "zebra"],
+];
+
+$animals = ["gazele", "zebra", "ezis", "cuka", "zirafe"];
+
+foreach ($animals as $i)
+    {
+        var_dump($i);
+    }
+
+
+//6.uzd
+echo "\n 6.uzd \n";
 
