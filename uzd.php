@@ -75,3 +75,9 @@ foreach ($animals as $i)
 //6.uzd
 echo "\n 6.uzd \n";
 
+$colors = ["red", "blue", "green", "yellow"];
+
+$stringColors = "Colors: ". $colors[0]. ", ". $colors[1]. ", ". $colors[2]. ", ". $colors[3];
+echo $stringColors;
+
+
